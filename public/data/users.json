@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "Elton",
+    "lastName": "John",
+    "job": "Singer"
+  },
+  {
+    "id": 2,
+    "firstName": "Zinédine",
+    "lastName": "Zidane",
+    "job": "Footballer"
+  },
+  {
+    "id": 3,
+    "firstName": "Jacques",
+    "lastName": "Chirac",
+    "job": "Politician"
+  },
+  {
+    "id": 4,
+    "firstName": "Claude",
+    "lastName": "Monnet",
+    "job": "Painter"
+  },
+  {
+    "id": 5,
+    "firstName": "Tim",
+    "lastName": "Cook",
+    "job": "CEO"
+  }
+]
