@@ -1,6 +1,6 @@
-'use client';
+'use client'
 
-import React, {CSSProperties, FunctionComponent, useState} from "react";
+import React, {CSSProperties, FunctionComponent, useState} from "react"
 
 interface ButtonProps {
     label: string,
